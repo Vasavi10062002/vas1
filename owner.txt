@@ -1,2 +1,3 @@
 hello am owner of the house.
-pay the rent to me
+pay the rent to me.
+1st floor rentee paid rentee to me.
